@@ -1,0 +1,151 @@
+Employee_ID,Age,Gender,Job_Role,Industry,Work_Location,AI_Tools_Used,Weekly_Work_Hours,Productivity_Score,Wellbeing_Score,Commute_Time_Min
+EMP001,28,Female,Data Analyst,Tech,Remote,ChatGPT;Copilot,40,8.5,9.0,0
+EMP002,35,Male,Software Engineer,Finance,Hybrid,Cursor;DeepSeek,45,9.2,7.5,30
+EMP003,42,Non-binary,HR Manager,Healthcare,On-site,None,38,6.0,5.5,60
+EMP004,24,Male,Marketing Spec,Retail,Remote,Midjourney;Jasper,35,8.0,8.5,0
+EMP005,31,Female,Project Manager,Tech,Hybrid,Notion AI,42,7.5,6.0,45
+EMP006,29,Male,Sales Rep,Real Estate,On-site,None,50,5.5,4.0,90
+EMP007,45,Female,Accountant,Finance,Remote,Excel AI,40,9.0,8.0,0
+EMP008,38,Male,Software Engineer,Tech,Remote,GitHub Copilot,35,9.5,9.5,0
+EMP009,22,Female,Content Writer,Media,Remote,ChatGPT;Grammarly,30,8.8,9.2,0
+EMP010,50,Male,Director,Manufacturing,On-site,None,55,7.0,5.0,40
+EMP011,27,Female,UX Designer,Tech,Hybrid,Figma AI,40,8.2,7.0,25
+EMP012,33,Male,Data Scientist,Education,Remote,Claude;Colab,38,9.0,8.5,0
+EMP013,40,Female,Teacher,Education,On-site,None,45,6.5,4.5,30
+EMP014,26,Male,Video Editor,Media,Remote,Runway Gen-2,40,8.7,8.0,0
+EMP015,36,Female,Analyst,Finance,Hybrid,Bloomberg GPT,44,7.8,6.5,50
+EMP016,29,Male,Support Agent,Retail,Remote,Zendesk AI,40,8.5,8.2,0
+EMP017,44,Non-binary,Product Lead,Tech,Hybrid,Jira AI,45,8.0,6.0,35
+EMP018,31,Male,Engineer,Construction,On-site,None,50,5.0,4.5,70
+EMP019,25,Female,Social Media,Fashion,Remote,Canva AI,35,9.0,9.0,0
+EMP020,39,Male,Manager,Logistics,On-site,None,48,6.0,5.5,45
+EMP021,28,Female,Web Dev,Tech,Remote,Copilot,40,9.1,8.8,0
+EMP022,34,Male,Consultant,Business,Hybrid,ChatGPT,50,7.5,5.5,60
+EMP023,41,Female,Nurse,Healthcare,On-site,None,40,8.0,4.0,20
+EMP024,23,Male,Intern,Tech,Remote,ChatGPT,20,7.0,9.5,0
+EMP025,37,Female,Legal Counsel,Law,Hybrid,Harvey AI,45,8.5,6.5,40
+EMP026,30,Male,Data Analyst,Finance,Remote,Tableau AI,40,8.9,8.4,0
+EMP027,46,Female,Accountant,Retail,On-site,None,42,6.5,5.5,50
+EMP028,32,Male,Cybersecurity,Tech,Remote,SentinelOne,40,9.4,8.9,0
+EMP029,27,Female,Recruiter,HR,Remote,LinkedIn AI,38,8.2,8.0,0
+EMP030,35,Male,Architect,Design,Hybrid,Adobe Firefly,45,7.8,7.0,30
+EMP031,29,Female,Copywriter,Ad Agency,Remote,Jasper,35,9.2,9.1,0
+EMP032,43,Male,Operations,Tech,On-site,None,50,6.2,4.8,60
+EMP033,31,Female,Designer,Tech,Remote,Figma AI,40,8.8,8.5,0
+EMP034,38,Male,DevOps,Finance,Hybrid,Kubernetes AI,42,8.5,7.5,45
+EMP035,26,Female,Marketing,Media,Remote,ChatGPT,37,8.0,8.8,0
+EMP036,40,Male,Sales,Tech,Remote,Salesforce AI,45,8.5,8.0,0
+EMP037,24,Female,Student,Education,Remote,Gemini,15,9.0,9.0,0
+EMP038,36,Male,Bio-Tech,Healthcare,On-site,None,45,7.5,5.0,30
+EMP039,33,Female,Research,Science,Hybrid,Scite AI,40,8.2,7.5,20
+EMP040,28,Male,Software Dev,Tech,Remote,DeepSeek,40,9.5,9.0,0
+EMP041,45,Female,Executive,Finance,On-site,None,60,7.0,3.5,90
+EMP042,30,Male,Data Analyst,Tech,Remote,Claude,40,8.7,8.5,0
+EMP043,37,Female,Manager,Retail,Hybrid,None,42,6.5,6.0,40
+EMP044,22,Male,Creator,Media,Remote,CapCut AI,30,9.5,9.8,0
+EMP045,39,Female,Logistics,Tech,Remote,ChatGPT,40,8.2,8.0,0
+EMP046,34,Male,Accountant,Finance,On-site,None,40,7.0,5.5,35
+EMP047,27,Female,QA Lead,Tech,Hybrid,Testim AI,40,8.0,7.5,25
+EMP048,41,Male,Project Lead,Energy,On-site,None,45,6.8,5.0,55
+EMP049,29,Female,Illustrator,Art,Remote,Midjourney,35,9.0,9.2,0
+EMP050,35,Male,Cloud Architect,Tech,Remote,AWS AI,40,9.2,8.8,0
+EMP051,32,Male,Software Engineer,Tech,Remote,GitHub Copilot,38,9.5,9.0,0
+EMP052,29,Female,Graphic Designer,Creative Arts,Remote,Midjourney;DALL-E 3,30,9.0,9.5,0
+EMP053,45,Male,Project Manager,Construction,On-site,None,55,6.5,4.5,75
+EMP054,26,Non-binary,Social Media Mgr,Marketing,Remote,ChatGPT;Canva AI,35,8.8,8.2,0
+EMP055,38,Female,Accountant,Finance,Hybrid,Excel AI,42,7.5,6.0,40
+EMP056,52,Male,Civil Engineer,Infrastructure,On-site,None,50,7.2,5.5,60
+EMP057,24,Female,Junior Dev,Tech,Remote,ChatGPT;Cursor,40,8.2,8.5,0
+EMP058,31,Male,Data Scientist,Tech,Hybrid,Claude;Jupyter AI,45,9.0,7.5,30
+EMP059,40,Female,HR Specialist,Corporate,On-site,None,40,6.5,5.0,45
+EMP060,28,Male,Video Editor,Media,Remote,Adobe Premiere AI,40,9.3,8.7,0
+EMP061,35,Female,Nurse Practitioner,Healthcare,On-site,None,48,8.5,4.0,25
+EMP062,22,Male,Content Creator,Media,Remote,CapCut AI;ChatGPT,25,9.6,9.8,0
+EMP063,33,Female,Financial Analyst,Finance,Hybrid,Bloomberg GPT,44,8.0,6.5,50
+EMP064,48,Male,Operations Manager,Logistics,On-site,None,52,6.0,4.2,90
+EMP065,27,Female,UX Researcher,Tech,Remote,Otter.ai;FigJam,38,8.5,8.9,0
+EMP066,39,Male,Cybersecurity,Tech,Remote,SentinelOne AI,40,9.4,9.0,0
+EMP067,30,Female,Marketing Lead,Retail,Hybrid,Jasper;Copy.ai,42,7.8,7.0,35
+EMP068,42,Male,Attorney,Legal,On-site,Harvey AI,50,8.2,5.2,40
+EMP069,25,Non-binary,Customer Success,Tech,Remote,Zendesk AI,35,8.4,8.8,0
+EMP070,36,Female,Product Designer,Tech,Remote,Figma AI,40,9.0,9.2,0
+EMP071,31,Male,Sales Executive,Real Estate,On-site,None,50,5.8,4.5,60
+EMP072,29,Female,Data Analyst,Finance,Remote,Tableau AI,40,9.1,8.5,0
+EMP073,44,Male,Factory Supervisor,Manufacturing,On-site,None,45,7.0,5.0,30
+EMP074,23,Female,Research Asst,Education,Remote,Gemini;Perplexity,30,8.5,9.0,0
+EMP075,37,Male,Cloud Engineer,Tech,Hybrid,AWS Q,40,8.8,7.8,45
+EMP076,34,Female,Interior Designer,Creative Arts,Hybrid,Adobe Firefly,38,8.2,7.5,20
+EMP077,41,Male,Bank Manager,Finance,On-site,None,40,7.5,5.5,35
+EMP078,26,Female,Web Developer,Tech,Remote,Copilot,35,9.2,9.4,0
+EMP079,38,Male,Mechanical Engineer,Energy,On-site,None,48,6.5,4.8,50
+EMP080,28,Female,Copywriter,Marketing,Remote,ChatGPT,32,8.9,9.0,0
+EMP081,32,Male,QA Engineer,Tech,Hybrid,Selenium AI,40,8.5,7.2,30
+EMP082,45,Female,Elementary Teacher,Education,On-site,None,42,8.0,5.5,20
+EMP083,30,Non-binary,AI Trainer,Tech,Remote,Multiple LLMs,40,9.5,9.5,0
+EMP084,27,Male,SEO Specialist,Marketing,Remote,SurferSEO,35,8.4,8.6,0
+EMP085,39,Female,Account Manager,Retail,Hybrid,None,45,6.8,6.2,40
+EMP086,50,Male,Supply Chain Dir,Logistics,On-site,None,55,7.2,4.5,70
+EMP087,24,Female,Illustrator,Creative Arts,Remote,Midjourney,30,9.4,9.6,0
+EMP088,33,Male,Backend Dev,Tech,Remote,DeepSeek,40,9.1,8.9,0
+EMP089,41,Female,Pharmacist,Healthcare,On-site,None,40,9.0,6.0,15
+EMP090,29,Male,Data Analyst,Retail,Hybrid,PowerBI AI,40,8.2,7.4,25
+EMP091,35,Female,Events Planner,Hospitality,On-site,None,50,6.5,5.0,45
+EMP092,28,Male,DevOps Engineer,Tech,Remote,Kubernetes AI,40,9.0,8.5,0
+EMP093,43,Female,Executive Admin,Corporate,On-site,None,40,7.0,6.0,40
+EMP094,22,Male,App Developer,Tech,Remote,ChatGPT;Copilot,35,9.2,9.3,0
+EMP095,36,Female,Psychologist,Healthcare,Hybrid,None,35,8.5,7.0,30
+EMP096,31,Male,Systems Admin,Tech,On-site,None,45,6.8,5.5,55
+EMP097,25,Female,Content Strategist,Media,Remote,Jasper,38,8.7,8.9,0
+EMP098,34,Male,Financial Advisor,Finance,Remote,ChatGPT,40,8.9,8.4,0
+EMP099,40,Female,Chef,Hospitality,On-site,None,60,9.0,3.5,20
+EMP100,27,Male,Mobile Developer,Tech,Remote,Swift AI,38,9.4,9.1,0
+EMP101,31,Female,Data Analyst,Retail,Remote,ChatGPT,40,8.5,8.7,0
+EMP102,44,Male,Operations Manager,Manufacturing,On-site,None,50,6.8,4.5,65
+EMP103,28,Non-binary,Community Mgr,Tech,Remote,ChatGPT,35,8.2,9.0,0
+EMP104,33,Female,Software Dev,Finance,Hybrid,Copilot,40,9.1,7.8,30
+EMP105,39,Male,Security Consultant,Tech,On-site,None,45,7.5,5.5,45
+EMP106,26,Female,UX Designer,Creative Arts,Remote,Figma AI,35,9.0,9.3,0
+EMP107,52,Male,Senior Architect,Infrastructure,On-site,None,55,7.2,4.8,50
+EMP108,24,Female,Sales Assoc,Retail,On-site,None,40,6.5,5.5,30
+EMP109,30,Male,Machine Learning Eng,Tech,Remote,Claude;Colab,40,9.6,9.2,0
+EMP110,38,Female,Office Manager,Corporate,On-site,None,40,6.5,5.0,40
+EMP111,29,Male,Backend Engineer,Tech,Remote,DeepSeek,40,9.2,8.8,0
+EMP112,35,Female,Editor,Media,Remote,Grammarly AI,35,8.8,9.2,0
+EMP113,42,Male,Accountant,Finance,Hybrid,None,42,7.2,6.5,45
+EMP114,23,Female,Intern,Marketing,Remote,ChatGPT,20,7.5,9.5,0
+EMP115,31,Male,Project Lead,Energy,On-site,None,48,6.8,4.5,60
+EMP116,28,Female,Web Designer,Tech,Hybrid,Figma AI,38,8.5,7.8,20
+EMP117,37,Male,Database Admin,Finance,Remote,Copilot,40,8.9,8.5,0
+EMP118,45,Female,Lawyer,Legal,On-site,Harvey AI,50,8.5,5.0,40
+EMP119,25,Male,Video Creator,Media,Remote,Runway,35,9.2,9.5,0
+EMP120,34,Female,Marketing Specialist,Retail,Hybrid,Copy.ai,40,8.0,7.2,30
+EMP121,39,Male,Network Engineer,Tech,On-site,None,45,7.2,5.5,55
+EMP122,27,Female,Customer Success,Software,Remote,Zendesk AI,38,8.8,8.9,0
+EMP123,36,Male,Data Scientist,Healthcare,Remote,Claude,40,9.3,9.0,0
+EMP124,41,Female,Professor,Education,Hybrid,None,35,7.8,7.5,25
+EMP125,22,Male,Support Tech,Retail,On-site,None,40,6.5,5.0,45
+EMP126,32,Female,Creative Director,Media,Remote,Midjourney,40,9.5,9.1,0
+EMP127,48,Male,Plant Manager,Manufacturing,On-site,None,55,7.0,4.2,60
+EMP128,29,Female,Account Executive,Tech,Remote,Salesforce AI,40,8.7,8.6,0
+EMP129,35,Male,Systems Analyst,Finance,Hybrid,ChatGPT,42,8.2,7.0,40
+EMP130,26,Non-binary,Copywriter,Advertising,Remote,Jasper,35,9.1,9.3,0
+EMP131,38,Female,HR Director,Tech,Hybrid,Notion AI,45,8.0,6.8,30
+EMP132,44,Male,Sales Rep,Real Estate,On-site,None,50,6.2,4.5,50
+EMP133,24,Female,Digital Marketer,Retail,Remote,ChatGPT,35,8.6,8.8,0
+EMP134,31,Male,Software Dev,Tech,Remote,Copilot,40,9.4,9.0,0
+EMP135,37,Female,Recruiter,Corporate,Hybrid,LinkedIn AI,40,8.2,7.5,20
+EMP136,33,Male,Cybersecurity Analyst,Finance,Remote,SentinelOne,40,9.5,8.8,0
+EMP137,40,Female,Teacher,Education,On-site,None,45,7.5,4.8,30
+EMP138,28,Male,Fullstack Dev,Tech,Remote,DeepSeek,40,9.2,8.9,0
+EMP139,45,Female,Chief Financial Officer,Finance,On-site,None,60,8.5,4.0,90
+EMP140,25,Male,Junior Analyst,Tech,Remote,ChatGPT,38,8.5,9.0,0
+EMP141,36,Female,Bio Engineer,Healthcare,Hybrid,Scite AI,40,8.8,7.8,35
+EMP142,30,Male,Logistics Planner,Retail,On-site,None,48,6.8,5.2,55
+EMP143,27,Female,Artist,Creative Arts,Remote,None,30,7.5,9.8,0
+EMP144,34,Male,Project Manager,Tech,Hybrid,Jira AI,42,8.4,7.5,25
+EMP145,39,Female,Nurse,Healthcare,On-site,None,40,8.2,4.5,20
+EMP146,23,Male,Social Media Intern,Fashion,Remote,Canva AI,25,9.0,9.5,0
+EMP147,31,Female,Data Analyst,Finance,Remote,Tableau AI,40,9.1,8.7,0
+EMP148,42,Male,Consultant,Business,Hybrid,None,50,7.5,5.5,60
+EMP149,28,Female,UX Designer,Tech,Remote,Figma AI,35,9.2,9.3,0
+EMP150,35,Male,Cloud Architect,Tech,Remote,AWS Q,40,9.5,9.0,0
