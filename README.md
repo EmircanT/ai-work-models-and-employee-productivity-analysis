@@ -1,8 +1,7 @@
 # ai-work-models-and-employee-productivity-analysis
-AI araç kullanımı, remote, hybrid (hibrit) ve on-site (ofisten) çalışma modelleri ile çalışan wellbeing’i (refah/yaşam kalitesi), productivity’si (verimliliği) ve commute (ulaşım) süresi arasındaki ilişkilerin veri analizi.
+AI araç kullanımı, remote, hybrid ve on-site (ofisten) çalışma modelleri ile çalışan wellbeing’i (refah/yaşam kalitesi), productivity’si (verimliliği) ve commute (ulaşım) süresi arasındaki ilişkilerin veri analizi.
 # AI Kullanımı, Çalışma Modelleri ve Çalışan Verimliliği Analizi
 
-AI araç kullanımı, remote, hybrid ve ofisten çalışma modelleri ile çalışan wellbeing’i (refah/yaşam kalitesi), productivity’si (verimliliği) ve commute (ulaşım) süresi arasındaki ilişkilerin Python tabanlı veri analizi ve görselleştirme yöntemleri ile incelenmesi.
 ---
 
 # Proje Amacı
